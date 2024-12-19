@@ -33,3 +33,7 @@ About our variables in dataset:
 | genres                 | character | List of genres associated with the artist (space-separated). |
 
 ### EDA
+
+![Alt text for the image](photos/output.png)
+
+![Alt text for the image](photos/output1.png)
