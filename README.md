@@ -1,2 +1,2 @@
-# AI_Spotify_Recomendation_Systems
+# AI_Spotify_Recommendation_Systems
 AI project
