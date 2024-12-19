@@ -36,10 +36,14 @@ About our variables in dataset:
 
 ### EDA
 
+**Word cloud from the most popular songs**
 ![Word cloud from the most popular songs](photos/output.png)
 
+**How the overall sound of music has changed from 1950 to 2020s...**
 ![How the overall sound of music has changed from 1950 to 2020s...](photos/output3.png)
 
+**Bar plot to visualize the duration of songs over the years**
 ![Bar plot to visualize the duration of songs over the years](photos/output3.png)
 
+**Number of songs of different genres**
 ![Number of songs of different genres](photos/output4.png)
