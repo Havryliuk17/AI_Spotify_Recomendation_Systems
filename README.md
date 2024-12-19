@@ -3,6 +3,7 @@
 ### Data Dictionary  
 
 #### `final.csv`  
+About our variables in dataset:
 
 | Variable               | Class     | Description |
 |:-----------------------|:----------|:------------|
@@ -30,3 +31,5 @@
 | popularity             | double    | Popularity score of the track on Spotify (0 - 100). Higher values indicate more popular tracks. |
 | artist_pop             | double    | Popularity score of the artist on Spotify (0 - 100). |
 | genres                 | character | List of genres associated with the artist (space-separated). |
+
+### EDA
