@@ -3,7 +3,8 @@
 ### Data Dictionary  
 
 #### `final.csv`
-[Link to dataset]([URL](https://drive.google.com/drive/folders/1PXvvR0lWxabjyfskaVesVxVuUeeF8Y8U?usp=drive_link))
+[Link to dataset](https://drive.google.com/drive/folders/1PXvvR0lWxabjyfskaVesVxVuUeeF8Y8U?usp=drive_link)
+
 About our variables in dataset:
 
 | Variable               | Class     | Description |
