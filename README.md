@@ -17,7 +17,7 @@ About our variables in dataset:
 | album_id               | character | Unique ID of the album. |
 | danceability           | double    | Danceability score (0.0 - 1.0) indicating how suitable the track is for dancing. |
 | energy                 | double    | Measure of intensity and activity (0.0 - 1.0). Higher values indicate more energetic tracks. |
-| key                    | double    | Overall key of the track. Values map to standard Pitch Class notation (e.g., 0 = C, 1 = C♯/D♭, etc.). |
+| key                    | double    | Overall key of the track. Values map to standard Pitch Class notation. |
 | loudness               | double    | Average loudness of the track in decibels (dB). Typical range is -60 to 0 dB. |
 | mode                   | double    | Modality of the track (1 = Major, 0 = Minor). |
 | speechiness            | double    | Score (0.0 - 1.0) detecting the presence of spoken words in the track. |
