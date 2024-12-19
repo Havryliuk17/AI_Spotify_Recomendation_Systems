@@ -2,7 +2,8 @@
 
 ### Data Dictionary  
 
-#### `final.csv`  
+#### `final.csv`
+[Link to dataset]([URL](https://drive.google.com/drive/folders/1PXvvR0lWxabjyfskaVesVxVuUeeF8Y8U?usp=drive_link))
 About our variables in dataset:
 
 | Variable               | Class     | Description |
@@ -34,6 +35,10 @@ About our variables in dataset:
 
 ### EDA
 
-![Alt text for the image](photos/output.png)
+![Word cloud from the most popular songs](photos/output.png)
 
-![Alt text for the image](photos/output1.png)
+![How the overall sound of music has changed from 1950 to 2020s...](photos/output3.png)
+
+![Bar plot to visualize the duration of songs over the years](photos/output3.png)
+
+![Number of songs of different genres](photos/output4.png)
