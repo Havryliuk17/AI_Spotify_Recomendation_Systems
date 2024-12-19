@@ -43,7 +43,7 @@ About our variables in dataset:
 ![How the overall sound of music has changed from 1950 to 2020s...](photos/output3.png)
 
 **Bar plot to visualize the duration of songs over the years**
-![Bar plot to visualize the duration of songs over the years](photos/output3.png)
+![Bar plot to visualize the duration of songs over the years](photos/output2.png)
 
 **Number of songs of different genres**
 ![Number of songs of different genres](photos/output4.png)
